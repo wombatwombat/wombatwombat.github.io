@@ -5,13 +5,13 @@ We are creating an OpenFisca instance for Canada's COVID-19 benefits.
 
 ### What we're working on
 
-Our OpenFisca instance (API) is at https://openfisca-canada.herokuapp.com
+Our OpenFisca instance (API) is at [https://openfisca-canada.herokuapp.com](https://openfisca-canada.herokuapp.com)
 
-The rules (policies, laws, etc) can be browsed at https://canada-rules.herokuapp.com
+The rules (policies, laws, etc) can be browsed at [https://canada-rules.herokuapp.com](https://canada-rules.herokuapp.com)
 
-Swagger docs are available for you to consume our API: https://canada-rules.herokuapp.com/swagger
+Swagger docs are available for you to consume our API: [https://canada-rules.herokuapp.com/swagger](https://canada-rules.herokuapp.com/swagger)
 
-Our demo (prototype) app will be at http://wombatwombat.github.io/biscuits/
+Our demo (prototype) app will be at [http://wombatwombat.github.io/biscuits/](http://wombatwombat.github.io/biscuits/)
 
 ### Contributing
 
