@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/wombatwombat/wombatwombat.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Wombat
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are creating an OpenFisca instance for Canada's COVID-19 benefits.
 
-### Markdown
+### Contributing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is an open source volunteer project. If you'd like to contribute, our work is on GitHub, pull requests welcome.
 
-```markdown
-Syntax highlighted code block
+We're making 2 things:
+ 1. An openfisca instance - [OpenFisca-Canada](https://github.com/wombatwombat/OpenFisca-Canada)
+2. A demo front-end for testing that - [biscuits](https://github.com/wombatwombat/biscuits)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wombatwombat/wombatwombat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We're using [OpenFisca](http://openfisca.org), a legislation-as-code platform, and the [canada.ca design system](https://design.canada.ca)
